@@ -1,6 +1,6 @@
 # Lexuria pin images
 
-Eight Pinterest pin images for the free guide *10 Phone Settings That Make Life
+Pinterest pin images for Lexuria Publishing guides, starting with the free guide *10 Phone Settings That Make Life
 Easier After 70*, published by Lexuria Publishing.
 
 ## Do not rename, move or delete any file in this repository
